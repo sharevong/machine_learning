@@ -4,7 +4,7 @@
 
 1. [./统计知识点.ipynb](./统计知识点.ipynb): 与机器学习相关的统计知识整理；
 
-2. [./Machine Learning.ipynb](./machine_learning.ipynb)：整理的机器学习算法模型知识，包括：
+2. [./machine learning.ipynb](./machine_learning.ipynb)：整理的机器学习算法模型知识，包括：
 
     - 分类模型：决策树、SVM、逻辑回归、朴素贝叶斯、随机梯度下降、K近邻、神经网络以及组合方法，包括随机森林、AdaBoost、GBDT、XGBoost
 
