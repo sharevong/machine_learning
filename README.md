@@ -13,3 +13,5 @@
     并介绍了机器学习问题一般的解题步骤。
 
 3. [./case1 商务签违规预测.ipynb](./case1_商务签违规预测.ipynb)：以商务签违规预测为案例，说明用sklearn具体进行分类的步骤，涉及到缺失值处理、日期字段处理、类目处理，以及模型调参等。
+
+4. [./time series models.ipynb](./time_series_models.ipynb)：介绍了季节性时间序列模型SARIMA。
